@@ -4266,25 +4266,6 @@
     "speedModifier": 1.4,
     "stamina": 650
   },
-  "duraludon": {
-  "mountType": [
-    "WALK"
-  ],
-  "ridingOffSet": [
-    0.0,
-    1.2,
-    0.0
-  ],
-  "passengersOffSet": [
-    [
-      -0.3,
-      1.1,
-      0.0
-    ]
-  ],
-  "speedModifier": 1.4,
-  "stamina": 650
-},
   "METAgross": {
     "formName": "mega",
     "stamina": 1000,
