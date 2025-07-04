@@ -714,7 +714,7 @@
         ],
         "ridingOffSet": [
           0.0,
-          1.0,
+          2.0,
           0.0
         ],
         "passengersOffSet": [
@@ -1381,7 +1381,7 @@
         ],
         "ridingOffSet": [
           -0.6,
-          0.5,
+          1.7,
           0.0
         ],
         "speedModifier": 0.6,
@@ -2786,7 +2786,7 @@
         ],
         "ridingOffSet": [
           -0.4,
-          1.5,
+          1.0,
           0.0
         ],
         "speedModifier": 0.8,
@@ -4233,14 +4233,14 @@
       "FLY"
     ],
     "ridingOffSet": [
-      -0.6,
-      0.8,
-      0.0
+      0.0,
+      2.0,
+      0.5
     ],
     "passengersOffSet": [
       [
         -0.8,
-        0.7,
+        1.5,
         0.0
       ]
     ],
@@ -4266,6 +4266,19 @@
     "speedModifier": 1.4,
     "stamina": 650
   },
+  "honchkrow": {
+  "mountType": [
+    "WALK",
+    "FLY"
+  ],
+  "ridingOffSet": [
+    0.0,
+    1.1,
+    0.0
+  ],
+  "speedModifier": 1.7,
+  "stamina": 900
+},
   "METAgross": {
     "formName": "mega",
     "stamina": 1000,
