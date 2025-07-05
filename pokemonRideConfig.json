@@ -1371,8 +1371,8 @@
           0.0,
           0.0
         ],
-        "speedModifier": 0.4,
-        "stamina": 450
+        "speedModifier": 1.0,
+        "stamina": 700
       },
       "pelipper": {
         "mountType": [
@@ -3118,10 +3118,10 @@
         ],
         "ridingOffSet": [
           0.0,
-          0.95,
+          1.95,
           0.0
         ],
-        "speedModifier": 0.4,
+        "speedModifier": 0.7,
         "stamina": 400
       },
       "rampardos": {
@@ -4273,7 +4273,7 @@
   ],
   "ridingOffSet": [
     0.0,
-    1.1,
+    1.6,
     0.0
   ],
   "speedModifier": 1.7,
